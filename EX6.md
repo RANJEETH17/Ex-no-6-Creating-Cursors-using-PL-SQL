@@ -1,4 +1,5 @@
 # Ex. No: 6 Creating Cursors using PL/SQL
+## DATE:8/9/23
 
 ### AIM: To create a cursor using PL/SQL.
 
@@ -18,7 +19,7 @@
 ![dbms 6 cursor](https://github.com/RANJEETH17/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/120718823/d1a7ff75-9a6a-4184-90d9-bf45f5390ba8)
 
 
-### Output:
+### Output: 
 ![dbms6 op](https://github.com/RANJEETH17/Ex-no-6-Creating-Cursors-using-PL-SQL/assets/120718823/1a4efdcc-c0c1-4db5-94e1-e55f11026c20)
 
 
